@@ -1,6 +1,6 @@
 # Invoke-PassTheCert
 
-Invoke-PassTheCert is a pure PowerShell port of PassTheCert. The purpose of this repository is to expand the landscape of PowerShell tooling available to Penetration testers. 
+Invoke-PassTheCert is a pure PowerShell port of PassTheCert. The purpose of this repository is to expand the landscape of PowerShell tooling available to Penetration testers and red teamers. 
 
 The original work by AlmondOffsec can be found here: https://github.com/AlmondOffSec/PassTheCert along with the accompanying blog post: https://offsec.almond.consulting/authenticating-with-certificates-when-pkinit-is-not-supported.html
 
